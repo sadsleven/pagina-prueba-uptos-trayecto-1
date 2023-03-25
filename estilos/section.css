@@ -1,0 +1,223 @@
+/* parametros del section */
+section {
+    float: left;
+    width: 60%;
+    padding: 1%;
+    padding-top: 0;
+}
+/* clase añadida al section por el javascrip cuando baje del header */
+.seccion-fixed{
+    margin-left: 20%;
+    max-width: 1200px;
+}
+section img {
+    width: 50%;
+}
+h1,h2,h3 {
+    color: #BC494B;
+    padding-bottom: 1%;
+}
+h1 {
+    font-size: 250%;
+}
+h2 {
+    font-size: 170%;
+}
+h3 {
+    font-size: 150%;
+    padding-left: 1%;
+}
+p {
+    color: #DBD5C6;
+    padding: 1%;
+    text-align: justify;
+    
+}
+section p{
+    font-size: 105%;
+}
+blockquote{
+    color: #DBD5C6;
+    padding: 1%;
+    padding-left: 6%;
+    padding-right: 6%;
+    text-align: justify;
+    font-style: italic;
+}
+figcaption {
+    color: #BC494B;
+    font-size: 100%;
+}
+
+/* imagenes y parrafos cada una editadas aqui dependiendo de que se quiera hacer */
+.img1 {
+    width: 98%;
+    margin: auto;
+}
+.img1 img {
+    width: 50%;
+}
+.img2 {
+    width: 90%;
+    margin: auto;
+}
+.img2 img {
+    width: 100%;
+}
+.img3 {
+    width: 85%;
+    margin: auto;
+}
+.img3 img {
+    width: 100%;
+}
+.img4 {
+    width: 98%;
+    margin: auto;
+}
+.img4 img {
+    width: 100%;
+}
+.img5 {
+    width: 98%;
+    margin: auto;
+}
+.img5 img {
+    width: 100%;
+}
+.img6 {
+    width: 98%;
+    margin: auto;
+}
+.img6 img {
+    width: 100%;
+}
+.img7 {
+    width: 98%;
+    margin: auto;
+}
+.img7 img {
+    width: 100%;
+}
+.img8 {
+    width: 90%;
+    margin: auto;
+}
+.img8 img {
+    width: 100%;
+}
+.img9 {
+    width: 80%;
+    margin: auto;
+}
+.img9 img {
+    width: 100%;
+}
+.img10 {
+    width: 98%;
+    margin: auto;
+}
+.img10 img {
+    width: 100%;
+}
+.img11 {
+    width: 90%;
+    margin: auto;
+}
+.img11 img {
+    width: 100%;
+}
+.img12 {
+    width: 90%;
+    margin: auto;
+}
+.img12 img {
+    width: 100%;
+}
+.img13 {
+    width: 90%;
+    margin: auto;
+}
+.img13 img {
+    width: 100%;
+}
+.img14 {
+    width: 98%;
+    margin: auto;
+}
+.img14 img {
+    width: 100%;
+}
+.img15 {
+    width: 50%;
+    margin: auto;
+}
+.img15 img {
+    width: 100%;
+}
+video {
+    width: 98%;
+    margin: auto;
+}
+.gifs{
+    width: 98%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.gifs img {
+    width: 33.3%;
+
+}
+.img16 {
+    width: 98%;
+    margin: auto;
+}
+.img16 img {
+    width: 100%;
+}
+.img17 {
+    width: 98%;
+    margin: auto;
+}
+.img17 img {
+    width: 100%;
+}
+.img18 {
+    width: 70%;
+    margin: auto;
+}
+.img18 img {
+    width: 100%;
+}
+.img19 {
+    width: 85%;
+    margin: auto;
+}
+.img19 img {
+    width: 100%;
+}
+
+.discogr figure{
+    width: 32.9%;
+    display: inline-block;
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+.caja1, .caja2{
+    display: flex;
+    flex-wrap: wrap;
+}
+.discogr img {
+    width: 90%;
+    max-width: 200px;
+    height: 90%;
+    max-height: 200px;
+	margin: auto;
+}
+
+
+
+

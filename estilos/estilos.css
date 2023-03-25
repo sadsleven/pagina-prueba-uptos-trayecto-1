@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css?family=Catamaran&display=swap');
+@import url(navmenu.css);
+@import url(section.css);
+@import url(aside.css);
+/* parametros globales */
+*{
+    margin: 0%;
+    padding: 0%;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+/* block para trabajar todo en cajas */
+header, nav, section, aside, footer, h1,h2,h3,p,blockquote,figure,figcaption,img,video {
+    display: block;
+}
+/* body */
+body {
+    background-color: #05181D;
+    text-align: center;
+    font-family: 'Catamaran', sans-serif;
+}
+/* caja entera del medio que llevara todo */
+#cajaprincipal {
+    width: 95%;
+    max-width: 1200px;
+	margin: 0% auto;
+	text-align: left;
+}
+/* header (super obvio) */
+header {
+    padding: 1%;
+    width: 100%;
+    padding: 2%;
+
+}
+/* footer (super obvio*/
+footer {
+    width: 100%;
+    float: left;
+    text-align: center;
+}
+footer a {
+    color: #DBD5C6;
+    font-size: 80%;
+    -webkit-animation: 0.5s ease;
+    transition: 0.5s ease;
+}
+
+footer a:hover{
+    color: #BC494B;
+}

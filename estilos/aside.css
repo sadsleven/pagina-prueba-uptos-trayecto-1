@@ -1,0 +1,16 @@
+aside {
+    float: right;
+    width: 20%;
+    top: 0;
+}
+figure {
+    width: 98%;
+    margin: auto;
+    margin-bottom: 10%;
+}
+img {
+    width: 100%;
+}
+aside h3 {
+    font-size: 100%;
+}
